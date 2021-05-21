@@ -100,7 +100,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     hexString.toColor().isNotEmpty
                         ? IconButton(
                             onPressed: () {
-                              Clipboard.setData(ClipboardData(text: hexString));
+                              Clipboard.setData(ClipboardData(text: hexString.toColor()));
 
                               final snackBar = SnackBar(
                                   content: Text('Copied To Clipboard'));
