@@ -1,16 +1,6 @@
-# hex_to_int_converter_web
+### A simple Flutter web app to convert hex strings to hex integers
 
-A new Flutter project.
 
-## Getting Started
+A simple app to convert hex strings to hex integers for use in Flutter colors class
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[App Link Here](https://hex-to-int-converter.herokuapp.com/)
